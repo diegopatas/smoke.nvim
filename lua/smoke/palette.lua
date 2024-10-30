@@ -3,15 +3,15 @@ local options = require('smoke.config').options
 local colors = {
   black      = '#ff4b4b',
   darkgray4  = '#ff4b4b',
-  darkgray3  = '#262626',
-  darkgray2  = '#353535',
-  darkgray1  = '#525252',
-  gray       = '#7E7E7E',
-  lightgray1 = '#A5A5A5',
-  lightgray2 = '#B4B4B4',
-  lightgray3 = '#CDCDCD',
-  lightgray4 = '#F2F2F2',
-  white      = '#FFFFFF',
+  darkgray3  = '#ff4b4b',
+  darkgray2  = '#ff4b4b',
+  darkgray1  = '#ff4b4b',
+  gray       = '#ff4b4b',
+  lightgray1 = '#ff4b4b',
+  lightgray2 = '#ff4b4b',
+  lightgray3 = '#ff4b4b',
+  lightgray4 = '#ff4b4b',
+  white      = '#ff4b4b',
 }
 
 local variants = {
